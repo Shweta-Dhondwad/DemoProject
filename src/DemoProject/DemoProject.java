@@ -7,7 +7,8 @@ public class DemoProject {
 		// TODO Auto-generated method stub
 System.out.println("x=" +x);
 
-ytfuf
+System.out.println("x=" +x);
+
 	}
 
 }
